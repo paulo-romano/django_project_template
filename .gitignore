@@ -57,3 +57,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+.DS_Store
+*.sqlite3
+.coverage
+.ipynb_checkpoints/
